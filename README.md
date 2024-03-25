@@ -33,7 +33,7 @@ Research Scholarship from NCBS-TIFR Graduate School
 SAGA Proteomics, [in preparation]()
 
 `2024`
-Hepatic Metabolism and Lipid Profile in Acromegaly, [in preparation]()
+Hepatic Metabolism in Acromegaly, [in preparation]()
 
 `2024`
 Virion-associated Cellular Proteins Protect SARS-CoV-2 from Innate Immunity, [in preparation]()
