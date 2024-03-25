@@ -30,13 +30,13 @@ Research Scholarship from NCBS-TIFR Graduate School
 ## 📜 Selected Publications
 
 `2024`
-SAGA Proteomics, [in preparation]()
+SAGA Proteomics, [ongoing]()
 
 `2024`
-Hepatic Metabolism in Acromegaly, [in preparation]()
+Hepatic Metabolism in Acromegaly, [ongoing]()
 
 `2024`
-Virion-associated Cellular Proteins Protect SARS-CoV-2 from Innate Immunity, [in preparation]()
+How SARS-CoV-2 is protected from Innate Immunity? [ongoing]()
 
 `2024`
 Tissue-specific Regulatory T cell function in Chronic Inflammation, [Nature (submitted)]()
@@ -48,10 +48,28 @@ Large Scale Chemo-Proteomics for Ligand Discovery, [Science (Accepted)]()
 *Systemic Inflammation and Normocytic Anemia in DOCK11 Deficiency, [New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMoa2210054)
 
 `2022`
-Leptin increases hepatic triglyceride export via a vagal mechanism in humans, [Cell Metabolism](https://doi.org/10.1016/j.cmet.2022.09.020)
+Leptin mediated TAG export in Humans, [Cell Metabolism](https://doi.org/10.1016/j.cmet.2022.09.020)
+
+`2022`
+Silicon Mitigates Potassium Deficiency, [Environmental and Experimental Botany](https://doi.org/10.1016/j.envexpbot.2022.104849)
+
+`2021`
+Thrombus Resolution in a Mouse Model, [Arteriosclerosis, Thrombosis, and Vascular Biology](https://doi.org/10.1161/ATVBAHA.121.316404)
 
 `2020`
-Acute BAF perturbation causes immediate changes in chromatin accessibility, [Nature Genetics](https://doi.org/10.1038/s41588-021-00777-3)
+BAF Perturbation and Chromatin Accessibility, [Nature Genetics](https://doi.org/10.1038/s41588-021-00777-3)
+
+`2019`
+Age-Dependent Sequence of Physiological Processes in Root Senescence, [Plant Physiology](https://doi.org/10.1104/pp.19.00809)
+
+`2017`
+Lipidomics of Lung Cancer and Tumour-free Lung Tissues, [Nature Scientific Reports](https://doi.org/10.1038/s41598-017-11339-1)
+
+`2015`
+Lipidome Homology, [PloS Computational Biology](https://doi.org/10.1371/journal.pcbi.1004511)
+
+`2014`
+Anti-bacterial and Anti-Endotoxic Peptides of Galleria mellonella, [BBA Biomembranes](https://doi.org/10.1016/j.bbamem.2014.07.005)
 
 A longer list is available [here](https://scholar.google.de/citations?user=mY2xSTgAAAAJ&hl=en)
 
