@@ -28,11 +28,15 @@ Junior Research Fellowship, University Grants Commission
 Research Scholarship from NCBS-TIFR Graduate School
 
 ## 📜 Selected Publications
+
 `2024`
-Large-scale Chemoproteomics for Ligand Discovery, [Science](https://www.science.org/)
+Tissue-specific Regulatory T cell function in Chronic Inflammation, [Nature (submitted)]()
+
+`2024`
+Large Scale Chemo-Proteomics for Ligand Discovery, [Science (Accepted)]()
 
 `2023`
-Systemic Inflammation and Normocytic Anemia in DOCK11 Deficiency, [New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMoa2210054)
+*Systemic Inflammation and Normocytic Anemia in DOCK11 Deficiency, [New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMoa2210054)
 
 `2022`
 Leptin increases hepatic triglyceride export via a vagal mechanism in humans, [Cell Metabolism](https://doi.org/10.1016/j.cmet.2022.09.020)
@@ -41,6 +45,7 @@ Leptin increases hepatic triglyceride export via a vagal mechanism in humans, [C
 Acute BAF perturbation causes immediate changes in chromatin accessibility, [Nature Genetics](https://doi.org/10.1038/s41588-021-00777-3)
 
 A longer list is available [here](https://scholar.google.de/citations?user=mY2xSTgAAAAJ&hl=en)
+*acknowledged contribution
 
 ## 💼 Selected Employment History
 __[Center for Molecular Medicine](https://cemm.at)__
