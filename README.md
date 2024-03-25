@@ -30,6 +30,12 @@ Research Scholarship from NCBS-TIFR Graduate School
 ## 📜 Selected Publications
 
 `2024`
+Hepatic Metabolism and Lipid Profile in Acromegaly, [in preparation]()
+
+`2024`
+Virion-associated Cellular Proteins Protect SARS-CoV-2 from Innate Immunity, [in preparation]()
+
+`2024`
 Tissue-specific Regulatory T cell function in Chronic Inflammation, [Nature (submitted)]()
 
 `2024`
