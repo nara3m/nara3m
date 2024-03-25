@@ -30,6 +30,9 @@ Research Scholarship from NCBS-TIFR Graduate School
 ## 📜 Selected Publications
 
 `2024`
+SAGA Proteomics, [in preparation]()
+
+`2024`
 Hepatic Metabolism and Lipid Profile in Acromegaly, [in preparation]()
 
 `2024`
