@@ -45,6 +45,7 @@ Leptin increases hepatic triglyceride export via a vagal mechanism in humans, [C
 Acute BAF perturbation causes immediate changes in chromatin accessibility, [Nature Genetics](https://doi.org/10.1038/s41588-021-00777-3)
 
 A longer list is available [here](https://scholar.google.de/citations?user=mY2xSTgAAAAJ&hl=en)
+
 *acknowledged contribution
 
 ## 💼 Selected Employment History
