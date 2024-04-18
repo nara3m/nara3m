@@ -36,10 +36,10 @@ SAGA Proteomics, [ongoing]()
 Hepatic Metabolism in Acromegaly, [ongoing]()
 
 `2024`
-SARS-CoV-2 hijacks Human Immune System? [ongoing]()
+SARS-CoV-2 hijacks Human Immune System, [Cell Host & Microbe (submitted)]()
 
 `2024`
-Tissue-specific Regulatory T cell function in Chronic Inflammation, [Nature (submitted)]()
+Tissue-specific Regulatory T cell function in Chronic Inflammation, [Immunity (submitted)]()
 
 `2024`
 Large Scale Chemo-Proteomics for Ligand Discovery, [Science (Accepted)]()
