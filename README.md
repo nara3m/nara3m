@@ -36,7 +36,7 @@ SAGA Proteomics, [ongoing]()
 Hepatic Metabolism in Acromegaly, [ongoing]()
 
 `2024`
-How SARS-CoV-2 is protected from Innate Immunity? [ongoing]()
+SARS-CoV-2 hijacks Human Immune System? [ongoing]()
 
 `2024`
 Tissue-specific Regulatory T cell function in Chronic Inflammation, [Nature (submitted)]()
@@ -54,10 +54,10 @@ Leptin mediated TAG export in Humans, [Cell Metabolism](https://doi.org/10.1016/
 Silicon Mitigates Potassium Deficiency, [Environmental and Experimental Botany](https://doi.org/10.1016/j.envexpbot.2022.104849)
 
 `2021`
-Thrombus Resolution in a Mouse Model, [Arteriosclerosis, Thrombosis, and Vascular Biology](https://doi.org/10.1161/ATVBAHA.121.316404)
+Peptide Delays Thrombus Resolution in a Mouse Model, [Arteriosclerosis, Thrombosis, and Vascular Biology](https://doi.org/10.1161/ATVBAHA.121.316404)
 
 `2020`
-BAF Perturbation and Chromatin Accessibility, [Nature Genetics](https://doi.org/10.1038/s41588-021-00777-3)
+BAF Perturbation disrupts Chromatin Accessibility, [Nature Genetics](https://doi.org/10.1038/s41588-021-00777-3)
 
 `2019`
 Age-Dependent Sequence of Physiological Processes in Root Senescence, [Plant Physiology](https://doi.org/10.1104/pp.19.00809)
