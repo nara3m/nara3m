@@ -1,7 +1,7 @@
 ### About
 
 - 😄 Pronouns: He/Him 👨
-- 🔭 Currently working: on Advanced Therapy Medicinal Products [](https://join4atmp.eu/)
+- 🔭 Currently working: on Advanced Therapy Medicinal Products, [Join4ATMP](https://join4atmp.eu/)
 - 💬 Ask me about: [Volunteering in Austria](https://www.samariterbund.net/nationale-internationale-projekte/katastrophenhilfe/international/)
 - 🌱 Currently learning: Spanish 🇪🇸
 - 📫 How to reach me: [send me a message](https://write2nara.pages.dev)
