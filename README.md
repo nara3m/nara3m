@@ -16,9 +16,9 @@ Data Science, Omics Analytics, Cheminformatics, Research Data Management
 Proteomics, Metabolomics, Trascriptomics, Targeted Protein Degradation, LIMS
 
 ## 🎓 Education 
-[<img src="https://media.licdn.com/dms/image/C4E0BAQFpYMkGxdeA1w/company-logo_200_200/0/1651475604569/unihamburg_logo?e=2147483647&v=beta&t=3w6yD9iq8OEbGZUfI_iMNrZn2Q8YcONQiwzUbOIA4Rk" width="25" alt="Logo University of Hamburg"/>](https://www.uni-hamburg.de/) __PhD__, University of Hamburg
+[<img src="https://s3.tebi.io/n3m/UniHamLogo.jpeg" width="25" alt="Logo University of Hamburg"/>](https://www.uni-hamburg.de/) __PhD__, University of Hamburg
 
-[<img src="https://media.licdn.com/dms/image/D4D0BAQGEYqusG33zmw/company-logo_200_200/0/1701320717167/sri_sathya_sai_institute_of_higher_learning_logo?e=1717632000&v=beta&t=a4xgVTpyAvXugVWS6W7j9q7U9AQG5RI1ZjLyosG4C7A" width="25" alt="Logo SSSIHL" />](https://www.sssihl.edu.in/) __M.Sc__, Sri Sathya Sai Institute of Higher Learning
+[<img src="https://s3.tebi.io/n3m/SSSIHLlogo.jpeg" width="25" alt="Logo SSSIHL" />](https://www.sssihl.edu.in/) __M.Sc__, Sri Sathya Sai Institute of Higher Learning
 
 ## 🏆 Awards
 `2010-2012`
