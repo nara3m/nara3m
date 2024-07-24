@@ -42,7 +42,7 @@ SARS-CoV-2 hijacks Human Immune System, [JCI Insight (submitted)]()
 Metabolite Regulation in Porto-Sinusoidal Vascular Disorder, [JHEP Reports (submitted)]()
 
 `2024`
-Longitudinal multi-omics in postpartum women identify a persistent signature of gestational diabetes, [Diabetologia(preprint)]()
+Longitudinal Multi-omics in Postpartum Women in Gestational Diabetes, [Diabetologia (preprint)]()
 
 `2024`
 Tissue-specific Regulatory T cell function in Chronic Inflammation, [Immunity (preprint)](https://doi.org/10.1101/2024.03.25.586519)
