@@ -39,16 +39,16 @@ Hepatic Metabolism in Acromegaly, [ongoing]()
 SARS-CoV-2 Hijacks Human Immune System, [ongoing]()
 
 `2024`
-Metabolite Regulation in Porto-Sinusoidal Vascular Disorder, [ongoing]()
-
-`2024`
-Longitudinal Multi-omics in Postpartum Women in Gestational Diabetes, [Diabetologia (submitted)]()
+Longitudinal Multi-omics in Postpartum Women in Gestational Diabetes, [ongoing](submitted)
 
 `2024`
 Molecular Mechanisms of Carfilzomib Resistance in Multiple Myeloma, [Preprint](https://doi.org/10.1101/2024.05.26.595929)
 
 `2024`
 Tissue-specific Regulatory T cell function in Chronic Inflammation, [Preprint](https://doi.org/10.1101/2024.03.25.586519)
+
+`2024`
+Metabolite Regulation in Porto-Sinusoidal Vascular Disorder, [JHEP Reports]()
 
 `2024`
 Large Scale Chemo-Proteomics for Ligand Discovery, [Science](https://doi.org/10.1126/science.adk5864)
