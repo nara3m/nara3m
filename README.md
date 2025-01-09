@@ -29,20 +29,20 @@ Research Scholarship from NCBS-TIFR Graduate School
 
 ## 📜 Selected Publications
 
-`2024`
-SAGA Proteomics, [ongoing]()
+`2025`
+Proteomics of Transcription Factor Complex SAGA, [ongoing]()
 
-`2024`
+`2025`
 Hepatic Metabolism in Acromegaly, [ongoing]()
 
-`2024`
-Longitudinal Multi-omics in Postpartum Women in Gestational Diabetes, [ongoing](submitted)
+`2025`
+Longitudinal Multi-omics in Postpartum Women with Gestational Diabetes, [ongoing](submitted)
 
 `2024`
-Molecular Mechanisms of Carfilzomib Resistance in Multiple Myeloma, [Preprint](https://doi.org/10.1101/2024.05.26.595929)
+Carfilzomib Resistance in Multiple Myeloma, [Preprint](https://doi.org/10.1101/2024.05.26.595929)
 
 `2024`
-Tissue-specific Regulatory T cell function in Chronic Inflammation, [Preprint](https://doi.org/10.1101/2024.03.25.586519)
+Regulatory T cell function in Chronic Inflammation, [Preprint](https://doi.org/10.1101/2024.03.25.586519)
 
 `2024`
 SARS-CoV-2 Hijacks Human Immune System, [Emerging Microbes & Infections](https://doi.org/10.1080/22221751.2024.2417868)
@@ -51,19 +51,19 @@ SARS-CoV-2 Hijacks Human Immune System, [Emerging Microbes & Infections](https:/
 Metabolite Regulation in Porto-Sinusoidal Vascular Disorder, [JHEP Reports](https://doi.org/10.1016/j.jhepr.2024.101208)
 
 `2024`
-Large Scale Chemo-Proteomics for Ligand Discovery, [Science](https://doi.org/10.1126/science.adk5864)
+Ligand Discovery with Large Scale Chemo-Proteomics, [Science](https://doi.org/10.1126/science.adk5864)
 
 `2023`
-*Systemic Inflammation and Normocytic Anemia in DOCK11 Deficiency, [New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMoa2210054)
+*DOCK11 Deficiency causes Systemic Inflammation and Normocytic Anemia, [New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMoa2210054)
 
 `2022`
-Leptin mediated TAG export in Humans, [Cell Metabolism](https://doi.org/10.1016/j.cmet.2022.09.020)
+Leptin mediates TAG export in Humans, [Cell Metabolism](https://doi.org/10.1016/j.cmet.2022.09.020)
 
 `2022`
 Silicon Mitigates Potassium Deficiency, [Environmental and Experimental Botany](https://doi.org/10.1016/j.envexpbot.2022.104849)
 
 `2021`
-Peptide Delays Thrombus Resolution in a Mouse Model, [Arteriosclerosis, Thrombosis, and Vascular Biology](https://doi.org/10.1161/ATVBAHA.121.316404)
+Thrombus Resolution in a Mouse Model, [Arteriosclerosis, Thrombosis, and Vascular Biology](https://doi.org/10.1161/ATVBAHA.121.316404)
 
 `2020`
 BAF Perturbation disrupts Chromatin Accessibility, [Nature Genetics](https://doi.org/10.1038/s41588-021-00777-3)
@@ -86,4 +86,4 @@ __[Leibniz Lung Center](https://fz-borstel.de)__
 - Analytical Biochemistry, Mass Spectrometry
 
 ##
-Last updated: Mar 2024
+Last updated: Jan 2025
