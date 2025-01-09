@@ -30,7 +30,7 @@ Research Scholarship from NCBS-TIFR Graduate School
 ## 📜 Selected Publications
 
 `2025`
-Proteomics of Transcription Factor Complex SAGA, [ongoing]()
+Proteomics of SAGA Transcription Factor Complex, [ongoing]()
 
 `2025`
 Hepatic Metabolism in Acromegaly, [ongoing]()
