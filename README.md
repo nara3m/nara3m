@@ -93,7 +93,7 @@ __[Leibniz Institute for Plant Genetics](https://ipk-gatersleben.de)__ 🇩🇪
 
 Scientist, Physiology & Cell Biology - Molecular Plant Nutrition
 
-__[Leibniz Lung Center](https://fz-borstel.de)__, 🇩🇪
+__[Leibniz Lung Center](https://fz-borstel.de)__ 🇩🇪
 
 Scientist, Infectious Diseases - Analytical Biochemistry
 
