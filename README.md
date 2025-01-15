@@ -73,27 +73,27 @@ A longer list is available [here](https://scholar.google.de/citations?user=mY2xS
 *acknowledged contribution
 
 ## 💼 Past and Present Workplaces (selected)
-__[Center for Molecular Medicine](https://cemm.at/)__ 🇦🇹
+[Center for Molecular Medicine](https://cemm.at/) 🇦🇹
 
 Senior Scientist, Molecular Discovery Platforms - Compound Screening, Proteomics and Metabolomics
 
-__[Medical University of Vienna](https://meduniwien.ac.at/)__ 🇦🇹
+[Medical University of Vienna](https://meduniwien.ac.at/) 🇦🇹
 
 Senior Manager, Transfusion Medicine & Cell Therapy - Join4ATMP
 
-__[Arbeiter-Samariter-Bund Österreichs Bundesverband](https://www.samariterbund.net/nationale-internationale-projekte/katastrophenhilfe/international/)__ 🇦🇹
+[Arbeiter-Samariter-Bund Österreichs Bundesverband](https://www.samariterbund.net/nationale-internationale-projekte/katastrophenhilfe/international/) 🇦🇹
 
 Retter, Internationale Katastrophenhilfe, Samaritan Austria – Rapid Response Team (SA-RRT)
 
-__[Charité – Berlin University Medicine](https://www.charite.de/en/)__ 🇩🇪
+[Charité – Berlin University Medicine](https://www.charite.de/en/) 🇩🇪
 
 Guest Scientist, Pediatric Oncology and Hematology - CAR-T cell therapy for Neuroblastoma
 
-__[Leibniz Institute for Plant Genetics](https://ipk-gatersleben.de)__ 🇩🇪
+[Leibniz Institute for Plant Genetics](https://ipk-gatersleben.de) 🇩🇪
 
 Scientist, Physiology & Cell Biology - Molecular Plant Nutrition
 
-__[Leibniz Lung Center](https://fz-borstel.de)__ 🇩🇪
+[Leibniz Lung Center](https://fz-borstel.de) 🇩🇪
 
 Scientist, Infectious Diseases - Analytical Biochemistry
 
