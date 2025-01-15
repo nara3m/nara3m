@@ -74,18 +74,23 @@ A longer list is available [here](https://scholar.google.de/citations?user=mY2xS
 
 ## 💼 Past and Present Workplaces
 __[Center for Molecular Medicine](https://cemm.at/)__, Austria
+
 Senior Scientist, Molecular Discovery Platforms - Compound Screening, Proteomics and Metabolomics
 
 __[Medical University of Vienna](https://meduniwien.ac.at/)__, Austria
+
 Senior Manager, Transfusion Medicine & Cell Therapy - Join4ATMP
 
 __[Charité – Berlin University Medicine](https://www.charite.de/en/)__, Germany
+
 Guest Scientist, Pediatric Oncology and Hematology - CAR-T cell therapy for Neuroblastoma
 
 __[Leibniz Institute for Plant Genetics](https://ipk-gatersleben.de)__, Germany
+
 Scientist, Physiology & Cell Biology - Molecular Plant Nutrition
 
 __[Leibniz Lung Center](https://fz-borstel.de)__, Germany
+
 Scientist, Infectious Diseases - Analytical Biochemistry
 
 ##
