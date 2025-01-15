@@ -72,18 +72,21 @@ A longer list is available [here](https://scholar.google.de/citations?user=mY2xS
 
 *acknowledged contribution
 
-## 💼 Selected Employment History
-__[Center for Molecular Medicine](https://cemm.at)__
-- Senior Data Scientist, Proteomics and Metabolomics
-- Data Manager for Molecular Discovery Platforms (Compound Screening, Proteomics & Metabolomics)
+## 💼 Past and Present Workplaces
+__[CEMM Research Center for Molecular Medicine of the Austrian Academy of Sciences](https://cemm.at/)__
+- Senior Scientist, Molecular Discovery Platforms - Compound Screening, Proteomics and Metabolomics
+
+__[Medical University of Vienna](https://meduniwien.ac.at/)__
+- Senior Manager, Transfusion Medicine & Cell Therapy - Join4ATMP
+
+__[Charité – Berlin University Medicine](https://www.charite.de/en/)__
+- Guest Scientist, Pediatric Oncology and Hematology - CAR-T cell therapy for Neuroblastoma
 
 __[Leibniz Institute for Plant Genetics](https://ipk-gatersleben.de)__
-- Bioinformatician, Physiology & Cell Biology
-- Molecular Nutrition, RNASeq, Trascriptomics
+- Scientist, Physiology & Cell Biology - Molecular Plant Nutrition
 
 __[Leibniz Lung Center](https://fz-borstel.de)__
-- Staff Scientist, Infectious Disease Research
-- Analytical Biochemistry, Mass Spectrometry
+- Scientist, Infectious Diseases - Analytical Biochemistry
 
 ##
 Last updated: Jan 2025
