@@ -4,7 +4,7 @@
 - 🔭 Currently working: on Advanced Therapy Medicinal Products, [Join4ATMP](https://join4atmp.eu/)
 - 💬 Ask me about: [Volunteering in Austria](https://www.samariterbund.net/nationale-internationale-projekte/katastrophenhilfe/international/)
 - 🌱 Currently learning: Spanish 🇪🇸
-- 📫 How to reach me: [send me a message](https://write2nara.pages.dev)
+- 📫 How to reach me: [send me a message](https://contact.n3m.in)
 - 👯 Looking to collaborate on: ML Projects 🧠
 - ⚡ Fun fact: I share name with a city in [Japan](https://en.wikipedia.org/wiki/Nara_(city))
 - 🤔 Looking for help: with Serverless App Deployment 🚀
