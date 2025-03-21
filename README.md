@@ -87,7 +87,7 @@ Retter, Internationale Katastrophenhilfe, Samaritan Austria Rapid Response Team 
 
 [Charité – Berlin University Medicine](https://www.charite.de/en/) 🇩🇪
 
-Data Manager, Design and Implementation ofJOIN4ATMP Survey 
+Data Manager, Design and Implementation of JOIN4ATMP Survey 
 
 [Leibniz Institute for Plant Genetics](https://ipk-gatersleben.de) 🇩🇪
 
