@@ -38,11 +38,11 @@ Hepatic Metabolism in Acromegaly, [ongoing]()
 `2025`
 Longitudinal Multi-omics in Postpartum Women with Gestational Diabetes, [ongoing](submitted)
 
-`2024`
-Carfilzomib Resistance in Multiple Myeloma, [Preprint](https://doi.org/10.1101/2024.05.26.595929)
+`2025`
+Regulatory T cell function in Chronic Inflammation, [Immunity](https://doi.org/10.1016/j.immuni.2025.02.011)
 
 `2024`
-Regulatory T cell function in Chronic Inflammation, [Immunity](https://doi.org/10.1016/j.immuni.2025.02.011)
+Carfilzomib Resistance in Multiple Myeloma, [Preprint](https://doi.org/10.1101/2024.05.26.595929)
 
 `2024`
 SARS-CoV-2 Hijacks Human Immune System, [Emerging Microbes & Infections](https://doi.org/10.1080/22221751.2024.2417868)
@@ -75,27 +75,27 @@ A longer list is available [here](https://scholar.google.de/citations?user=mY2xS
 ## 💼 Past and Present Workplaces (selected)
 [Center for Molecular Medicine](https://cemm.at/) 🇦🇹
 
-Senior Scientist, Molecular Discovery Platforms - Compound Screening, Proteomics and Metabolomics
+Senior Data Scientist, Molecular Discovery Platforms, Proteomics and Metabolomics
 
 [Medical University of Vienna](https://meduniwien.ac.at/) 🇦🇹
 
-Senior Manager, Transfusion Medicine & Cell Therapy - Join4ATMP
+Senior IT Manager, Transfusion Medicine & Cell Therapy, ATMP Database
 
 [Arbeiter-Samariter-Bund Österreichs Bundesverband](https://www.samariterbund.net/nationale-internationale-projekte/katastrophenhilfe/international/) 🇦🇹
 
-Retter, Internationale Katastrophenhilfe, Samaritan Austria – Rapid Response Team (SA-RRT)
+Retter, Internationale Katastrophenhilfe, Samaritan Austria Rapid Response Team (SA-RRT)
 
 [Charité – Berlin University Medicine](https://www.charite.de/en/) 🇩🇪
 
-Guest Scientist, Pediatric Oncology and Hematology - CAR-T cell therapy for Neuroblastoma
+Data Manager, Design and Implementation ofJOIN4ATMP Survey 
 
 [Leibniz Institute for Plant Genetics](https://ipk-gatersleben.de) 🇩🇪
 
-Scientist, Physiology & Cell Biology - Molecular Plant Nutrition
+Bioinformatics Scientist, Physiology & Cell Biology, Molecular Plant Nutrition
 
 [Leibniz Lung Center](https://fz-borstel.de) 🇩🇪
 
-Scientist, Infectious Diseases - Analytical Biochemistry
+Bioinformatics Scientist, Infectious Diseases, Analytical Biochemistry
 
 ##
 Last updated: Jan 2025
