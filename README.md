@@ -79,7 +79,7 @@ Senior Data Scientist, Molecular Discovery Platforms, Proteomics and Metabolomic
 
 [Medical University of Vienna](https://meduniwien.ac.at/) 🇦🇹
 
-Consultant, Datbases and IT, Transfusion Medicine & Cell Therapy
+Consultant, Databases and IT, Transfusion Medicine & Cell Therapy
 
 [Arbeiter-Samariter-Bund Österreichs Bundesverband](https://www.samariterbund.net/nationale-internationale-projekte/katastrophenhilfe/international/) 🇦🇹
 
