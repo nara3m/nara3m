@@ -1,7 +1,7 @@
 ### About
 
 - 😄 Pronouns: He/Him 👨
-- 🔭 Currently working: on Advanced Therapy Medicinal Products, [Join4ATMP](https://join4atmp.eu/)
+- 🔭 Currently interested in: Advanced Therapy Medicinal Products
 - 💬 Ask me about: [Volunteering in Austria](https://www.samariterbund.net/nationale-internationale-projekte/katastrophenhilfe/international/)
 - 🌱 Currently learning: Spanish 🇪🇸
 - 📫 How to reach me: [send me a message](https://contact.n3m.in)
@@ -79,7 +79,7 @@ Senior Data Scientist, Molecular Discovery Platforms, Proteomics and Metabolomic
 
 [Medical University of Vienna](https://meduniwien.ac.at/) 🇦🇹
 
-Senior IT Manager, Transfusion Medicine & Cell Therapy, ATMP Database
+Consultant, Datbases and IT, Transfusion Medicine & Cell Therapy
 
 [Arbeiter-Samariter-Bund Österreichs Bundesverband](https://www.samariterbund.net/nationale-internationale-projekte/katastrophenhilfe/international/) 🇦🇹
 
@@ -87,7 +87,7 @@ Retter, Internationale Katastrophenhilfe, Samaritan Austria Rapid Response Team 
 
 [Charité – Berlin University Medicine](https://www.charite.de/en/) 🇩🇪
 
-Data Manager, Design and Implementation of JOIN4ATMP Survey 
+Guest Scientist, Data Management, Design and Implementation of Expert Surveys, Analysis of Survey Responses 
 
 [Leibniz Institute for Plant Genetics](https://ipk-gatersleben.de) 🇩🇪
 
